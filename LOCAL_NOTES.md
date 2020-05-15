@@ -4,6 +4,9 @@ npm install
 ng serve
 ```
 
+# Simulate Offline
+In Chrome developer tools on Application Tab, click Service workers and Select "Offline"
+
 # Git
 ```
 git init
